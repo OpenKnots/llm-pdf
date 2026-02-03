@@ -1,8 +1,13 @@
-<img src="./assets/logo.svg" width="300px">
+<img src="./assets/llm-pdf-banner.png" width="100%">
 
 > Run LLMs inside a PDF file.
 
-## What is llm.pdf?
+## Screenshots
+
+<img src="./assets/llm-pdf-screenshot-desktop.png" width="100%">
+<!-- <img src="./assets/llm-pdf-screenshot-mobile.png" width="60%"> -->
+
+## What is llm-pdf?
 
 This is a proof-of-concept project, showing that it's possible to run an entire Large Language Model in nothing but a PDF file.
 
@@ -36,7 +41,7 @@ Thank you to the following for inspiration and reference:
 - [ading2210's DoomPDF](https://github.com/ading2210/doompdf)
 - [rahuldshetty's llm.js](https://github.com/rahuldshetty/llm.js)
 
-Thank you to the following for creating the tiny LLMs that power llm.pdf:
+Thank you to the following for creating the tiny LLMs that power llm-pdf:
 
 - [EleutherAI's pythia models](https://github.com/EleutherAI/pythia)
 - [Ronen Eldan and Yuanzhi Li's TinyStories LLM](https://arxiv.org/abs/2305.07759)

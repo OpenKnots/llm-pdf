@@ -14,7 +14,7 @@ try {
     }
 
     print_msg("===");
-    print_msg("Welcome to llm.pdf!")
+    print_msg("Welcome to llm-pdf!")
     print_msg("This is a proof-of-concept demo for running LLMs completely locally in a PDF.");
     print_msg("");
     print_msg("Begin by entering a prompt below.");
@@ -26,7 +26,7 @@ try {
     print_msg(" - Ctx Len: Context length to use");
     print_msg("");
     print_msg("Disclaimers:");
-    print_msg(" - llm.pdf does not save chat history (Even if you use Ask). Each request is independent.");
+    print_msg(" - llm-pdf does not save chat history (Even if you use Ask). Each request is independent.");
     print_msg(" - Inference is very slow (up to 5 seconds per token input/output), so be patient!");
     print_msg(" - Q1 (fastest) and Q8 (fast) quantizations are most optimal, with all other options being slower.");
     print_msg("");
