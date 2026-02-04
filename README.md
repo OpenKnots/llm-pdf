@@ -1,10 +1,10 @@
-<img src="./assets/llm-pdf-banner.png" width="100%">
+<img src=".//website/assets/llm-pdf-banner.png" width="100%">
 
 > Run LLMs inside a PDF file.
 
 ## Screenshots
 
-<img src="./assets/llm-pdf-screenshot-desktop.png" width="100%">
+<img src="./website/assets/llm-pdf-screenshot-desktop.png" width="100%">
 <!-- <img src="./assets/llm-pdf-screenshot-mobile.png" width="60%"> -->
 
 ## What is llm-pdf?
